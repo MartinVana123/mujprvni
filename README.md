@@ -2,4 +2,5 @@
 branch 0.1
 
 
-pøibral jsem... 
+pøibral jsem... ¨
+zase...
