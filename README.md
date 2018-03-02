@@ -1,6 +1,2 @@
 # mujprvni
-ghsfdhgdfhgsdghsdghdfgsdfhds
-fy dkgnslkdjghlyksngkgf lkj sgkljdfgnblkjdsfnglkfdg
- 
- hgsdfhdfhdfhdf
-dsfsda dff  bdfb gb
+branch 0.1
